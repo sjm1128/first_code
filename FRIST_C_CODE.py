@@ -7,4 +7,11 @@ for i in range(1, 11):
 
 print(result)
 
+
 print("Developer B")
+
+def calc_area(x, Y) :
+    result = x * Y
+    return result
+
+
