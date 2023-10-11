@@ -7,6 +7,7 @@ for i in range(1, 11):
 
 print(result)
 
-def calc_area(x, y) :
-    result = x * y
+def calc_area(x, Y) :
+    result = x * Y
     return result
+
